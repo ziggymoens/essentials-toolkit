@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "essentials-toolkit"
+    }
+  },
+  "defaultProject": "essentials-toolkit",
+  "cli": {
+    "analytics": "1f6ffcf5-ed64-4c7a-8b8e-3b7837ef9abc"
+  }
 }
